@@ -61,3 +61,9 @@ This project delivered measurable impact across cost, reliability, and performan
 - Achieving seamless migration in a high-stakes, zero-downtime environment requires meticulous planning, parallel testing, and gradual rollout strategies.  
 - Investing in clean, modular ETL design (250+ mappings) pays off in maintenance and debugging.  
 - Orchestration (AutoSys) is just as critical as transformation—ensuring timeliness and recovery.  
+
+# Contact
+
+Feel free to reach out at:
+  Email: sneela7@uic.edu/saiajayneel@gmail.com
+  Ph: +1 312 792 5326
