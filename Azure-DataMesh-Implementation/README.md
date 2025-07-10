@@ -69,5 +69,9 @@ The project delivered meaningful technical and business impact:
 - Reconciliation logic should be baked into the ETL—not added as an afterthought  
 - Data Mesh principles helped break silos and empower downstream teams with self-serve access  
 
+# Contact
 
+Feel free to reach out at:
+  Email: sneela7@uic.edu/saiajayneel@gmail.com
+  Ph: +1 312 792 5326
 
